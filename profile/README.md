@@ -1,6 +1,6 @@
 <div align="right">
 	<a href="" ><img src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=social"></a>
-	<a href="https://twitch.com/untalbry" ><img src="https://img.shields.io/twitch/status/binarybrains?style=social"></a>
+	<a href="https://twitch.com/binarybrains" ><img src="https://img.shields.io/twitch/status/binarybrains?style=social"></a>
 	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
 	
 </div>
