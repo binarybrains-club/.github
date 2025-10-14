@@ -1,3 +1,10 @@
+<div align="right">
+	<a href="" ><img src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=social"></a>
+	<a href="https://twitch.com/untalbry" ><img src="https://img.shields.io/twitch/status/binarybrains?style=social"></a>
+	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
+	
+</div>
+
 # Bienvenidos a Binary Brains 💙 
 <img width="1430" alt="Binary Brains banner" src="https://github.com/user-attachments/assets/df4e6c63-1efe-44dc-8802-08da8f138009" />
 
