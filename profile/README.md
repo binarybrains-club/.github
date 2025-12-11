@@ -1,5 +1,5 @@
 <div align="right">
-	<a href="" ><img src="https://img.shields.io/github/followers/binarybrains-upiicsa?style=social"></a>
+	<a href="" ><img src="https://img.shields.io/github/followers/binarybrains-club?style=social"></a>
 	<a href="https://twitch.com/binarybrains" ><img src="https://img.shields.io/twitch/status/binarybrains?style=social"></a>
 	<a href="https://discord.gg/cyXd37NTbq" ><img src="https://img.shields.io/discord/881664688230920232?style=social&label=Discord&logo=discord"></a>
 	
@@ -21,20 +21,20 @@ Tenemos especialidades donde podrás aprender de grandes expertos del área y do
 <br> <br>
 <div align="center">
   <a href="https://github.com/binarybrains-upiicsa/Desarrollo-web">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-upiicsa/Desarrollo-web?style=for-the-badge&label=Desarrollo-web&labelColor=%231b6fc1&color=%233092ec">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-club/Desarrollo-web?style=for-the-badge&label=Desarrollo-web&labelColor=%231b6fc1&color=%233092ec">
   </a>
   <a href="https://github.com/binarybrains-upiicsa/README_AI/tree/main">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-upiicsa/README_AI?style=for-the-badge&label=AI&labelColor=%231b6fc1&color=%233092ec">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-club/README_AI?style=for-the-badge&label=AI&labelColor=%231b6fc1&color=%233092ec">
   </a>
 </div>
 
 ## Próximos eventos 🚀
-Actualmente estamos realizando <a href="https://github.com/binarybrains-upiicsa/BB-101">BB-101</a>, un curso de introducción a informática inspirado en CS50. Es impartido en UPIICSA en la aula modelo en el edificio de ligeros todos los martes de 15:00 - 17:00. 
+Actualmente estamos realizando <a href="https://github.com/binarybrains-club/BB-101">BB-101</a>, un curso de introducción a informática inspirado en CS50. Es impartido en UPIICSA en la aula modelo en el edificio de ligeros todos los martes de 15:00 - 17:00. 
 
 
 ## Nuestros amigos 🎉
 <div align="center">
-  <a href="https://github.com/binarybrains-upiicsa">
+  <a href="https://github.com/binarybrains-club">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://untalbry.notion.site/Binary-Brains-7ce88d6234d94f9ca1a1cd10e8ecc2eb">
@@ -76,11 +76,11 @@ A nosotros nos encanta compartir conocimiento y ayudarnos unos a los otros, por 
 - <strong>Se mentor</strong>: Que mejor que enseñar a otros para crecer juntos. Nadie sabe todo que mejor que poder transmitir lo mucho o poco que conozcamos para ayudar a crecer a otros
 - <strong>Comparte recursos</strong>: En nuestro discord oficial nos encanta recomendar cosas que personalmente nos han ayudado, ya sea a aprender un tema nuevo o nos han ayudado porque son herramientas fantásticas que nos resuelven la vida
 - <strong>Propuesta de proyectos</strong>: Aquí podrás proponer ese proyecto que siempre has querido hacer, juntos podemos lograr realizar eso que en la ducha sueñas y si nosotros tampoco sabemos como hacerlo, no importa aprendemos todos a hacerlo.
-- <strong>Voluntariado</strong>: Cada año realizamos múltiples eventos, desde las <a href="https://x.com/brujeriatech/status/1666291070223757313">Binary Talks vol. 1 </a>/<a href="https://www.linkedin.com/posts/bryan-castro-programador_el-pasado-10-de-octubre-realizamos-las-binary-activity-7119386221667110912-1dpy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9smkYBJhbNYHeLeVn5cu-bBRtVoxW0184"> Binary Talks vol. 2</a> hasta hackathones como <a href="https://www.linkedin.com/posts/aquilespo_hacktion-hace-una-semana-que-fue-el-hacktion-ugcPost-7218345107182297088-wRjT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9smkYBJhbNYHeLeVn5cu-bBRtVoxW0184">Hacktion</a>. Hacer estos eventos solos no es fácil, es por eso que siempre agradecemos que se nos quieran unir un par de manos extras para poder hacer mejores eventos y poder ayudar a más gente.
+- <strong>Voluntariado</strong>: Cada año realizamos múltiples eventos, desde las <a href="https://x.com/brujeriatech/status/1666291070223757313">Binary Talks vol. 1 </a>/<a href="https://www.linkedin.com/posts/bryan-castro-programador_el-pasado-10-de-octubre-realizamos-las-binary-activity-7119386221667110912-1dpy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9smkYBJhbNYHeLeVn5cu-bBRtVoxW0184"> Binary Talks vol. 2</a> hasta hackathones como <a href="https://www.linkedin.com/posts/aquilespo_hacktion-hace-una-semana-que-fue-el-hacktion-ugcPost-7218345107182297088-wRjT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9smkYBJhbNYHeLeVn5cu-bBRtVoxW0184">Hacktion</a> y <a href="https://binarybrains-club.github.io/LogisticsHackathon/">Logistics Hackathon</a>. Hacer estos eventos solos no es fácil, es por eso que siempre agradecemos que se nos quieran unir un par de manos extras para poder hacer mejores eventos y poder ayudar a más gente.
 - <strong>Proyectos</strong>: Nuestra comunidad no sería nuestra comunidad si no hicieramos proyectos constantemente, es por eso que tu puedes contrubuir a nuestros proyectos open source haciendo un fork de algún proyecto y subiendo una PR, haciendo code reviews, creando issues o iniciando discussions para hablar de algún tema en particular. La idea es que los proyectos lo hagamos juntos, sin importar que tanto sabes.
   
 # Código de conducta 🤝
-Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor, sé respetuoso en tus interacciones y adhiérete a nuestro <a href="https://github.com/binarybrains-upiicsa/.github/blob/main/CODIGO-DE-CONDUCTA.md">Código de Conducta</a>. Ayudanos a que Binary Brains sera un espacio para todos y todas. 
+Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor, sé respetuoso en tus interacciones y adhiérete a nuestro <a href="https://github.com/binarybrains-club/.github/blob/main/CODIGO-DE-CONDUCTA.md">Código de Conducta</a>. Ayudanos a que Binary Brains sera un espacio para todos y todas. 
 
 # Conoce a tus líderes 
 
