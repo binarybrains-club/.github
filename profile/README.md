@@ -6,6 +6,9 @@
 </div>
 
 # Bienvenidos a Binary Brains 💙 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=3092EC&center=true&vCenter=true&width=435&lines=Juntos+llegamos+m%C3%A1s+lejos" alt="Typing SVG" /></a>
+</div>
 <img width="1430" alt="Binary Brains banner" src="https://github.com/user-attachments/assets/df4e6c63-1efe-44dc-8802-08da8f138009" />
 
 Somos Binary Brains, una comunidad estudiantil apasionada por la informática. Creemos en la colaboración para alcanzar grandes metas, inspirar y ayudar a más estudiantes a encontrar su lugar en Computer Science.
